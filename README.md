@@ -1,3 +1,27 @@
+<p align="center">
+    <img src="https://cn.vuejs.org/images/logo.png"
+         height="130">
+</p>
+<p align="center">
+    <!--<a href="https://github.com/dily3825002/EgerPro/issues">
+        <img src="https://img.shields.io/github/issues/dily3825002/EgerPro.svg"
+             alt="issues">
+    </a>-->
+    <a href="https://github.com/gdmec07150831/vuxweather/stargazers">
+        <img src="https://img.shields.io/github/forks/gdmec07150831/vuxweather.svg"
+             alt="forks">
+    </a>
+    <a href="https://github.com/gdmec07150831/vuxweather/stargazers">
+        <img src="https://img.shields.io/github/stars/gdmec07150831/vuxweather.svg"
+             alt="stars">
+    </a>
+    <a href="https://github.com/gdmec07150831/vuxweather/stargazers">
+        <img src="https://img.shields.io/github/issues/gdmec07150831/vuxweather.svg"
+             alt="issues">
+    </a>
+</p>
+
+
 # vuxweather
 
 > A Vue.js project
